@@ -1,0 +1,5 @@
+*.pyc
+.git/
+__pycache__/
+dist/
+spritz_cli.egg-info/
